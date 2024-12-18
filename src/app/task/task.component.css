@@ -1,0 +1,21 @@
+.task-manager {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  input[type='text'] {
+    padding: 5px;
+    width: 70%;
+  }
+  
+  button {
+    padding: 5px;
+    margin-left: 5px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
